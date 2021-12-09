@@ -1,6 +1,6 @@
 # viral-biogeography
 
-This repository contains code used to generate results and figures for the manuscript "Patterns and ecological drivers of viral communities in acid mine drainage sediments".
+This repository contains code and relevant data used to generate results and figures for the manuscript "Patterns and ecological drivers of viral communities in acid mine drainage sediments".
 
 
 ## Instructions for input data and code 
