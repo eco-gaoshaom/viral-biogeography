@@ -12,6 +12,7 @@ Figure 1
   
 Figure 2  
 **biotic_abiotic.factors**: biotic and abiotic data for the 90 AMD sediment samples  
+**MAGs_sites.abun**: abundance of prokaryotic populations (MAGs) in the 90 AMD sediments  
 **fig2a.heatmap.R**: R scripts used to calculate the Pearson's correlations between biotic and abiotic factors  
 **fig2a.mantel.R**: R scripts used to calculate the Mantel's correlations between prokaryotic, viral taxonomic and functional communities, and abiotic factors  
 **fig2bc.pcoa.R**: R scripts used to generate the Principal coordinate analysis (PCoA; utilizing the Bray-Curtis dissimilarity metric) of viral taxonomic and functional structure  
