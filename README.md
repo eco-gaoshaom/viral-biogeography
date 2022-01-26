@@ -1,6 +1,6 @@
 # viral-biogeography
 
-This repository contains code and relevant data used to generate results and figures for the manuscript "Patterns and ecological drivers of viral communities in acid mine drainage sediments".
+This repository contains code and relevant data used to generate results and figures for the manuscript "Patterns and ecological drivers of viral communities in acid mine drainage sediments across Southern China".
 
 
 ## Instructions for input data and code 
@@ -28,6 +28,8 @@ Figure 4
 **fig4a.R**: R scripts used to calculate virus/host abundance ratios and abundance correlations  
   
 Figure 5  
+**calculate_viralrange_hostrange.py**: Python scripts used to calculate the average viral ranges and host ranges by host phyla.  
+**virus_host.pairs**: viral-host matches listed at the host phylum level  
 **virus_host.pairs**: viral-host matches summarized at the population level  
-**cal_hostrange.R**: R scripts used to calculate the average viral host ranges in the 90 AMD sediments. Meanwhile, this script could generate virus-host subnetworks for the 90 samples  
+**virus-host sub-networks for each sample.R**: R scripts used to generate virus-host subnetworks for the 90 samples  
 **cal_mod_nest.matlab**: matlab scripts used to calculate modularity and nestedness for the 90 samples
