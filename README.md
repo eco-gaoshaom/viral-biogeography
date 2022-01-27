@@ -32,4 +32,8 @@ Figure 5
 **virus_host.pairs**: viral-host matches listed at the host phylum level  
 **virus_host.pairs**: viral-host matches summarized at the population level  
 **virus-host sub-networks for each sample.R**: R scripts used to generate virus-host subnetworks for the 90 samples  
-**cal_mod_nest.matlab**: matlab scripts used to calculate modularity and nestedness for the 90 samples
+**cal_mod_nest.matlab**: matlab scripts used to calculate modularity and nestedness for the 90 samples  
+  
+Figure 6  
+**tp_ap_phoh.data**: data used to calculate correlations between concentrations of total phosphorus, available phosphorus and the abundance of viral sequences containing phoH gene.  
+**tp_ap_phoh_abun.R** : R scripts used to calculate correlations between concentrations of total phosphorus, available phosphorus and the abundance of viral sequences containing phoH gene.  
