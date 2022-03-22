@@ -39,4 +39,4 @@ Figure 6
 **tp_ap_phoh_abun.R** : R scripts used to calculate correlations between concentrations of total phosphorus, available phosphorus and the abundance of viral sequences containing phoH gene. 
 
 
-We have create a DOI for this release: https://zenodo.org/badge/latestdoi/436522224
+DOI for this release: https://zenodo.org/badge/latestdoi/436522224
