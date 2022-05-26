@@ -1,6 +1,6 @@
 # viral-biogeography
 
-This repository contains code and relevant data used to generate results and figures for the manuscript "Patterns and ecological drivers of viral communities in acid mine drainage sediments across Southern China".
+This repository contains code and relevant data used to generate results and figures for the manuscript "Gao S, Paez-Espino D, Li J, Ai H, Liang J, Luo Z, Zheng J, Chen H, Shu W, Huang L. Patterns and ecological drivers of viral communities in acid mine drainage sediments across Southern China. Nat Commun. 2022;13(1):2389". https://www.nature.com/articles/s41467-022-30049-5
 
 
 ## Instructions for input data and code 
